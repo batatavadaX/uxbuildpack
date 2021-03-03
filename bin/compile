@@ -2,7 +2,7 @@
 
 MAIN='USERGE-X'
 
-git clone "https://github.com/code-rgb/$USERGE-X"
+git clone "https://github.com/code-rgb/$MAIN"
 
 cd $MAIN
 
