@@ -1,0 +1,10 @@
+#! bin/bash
+
+MAIN='USERGE-X'
+
+git clone "https://github.com/code-rgb/$USERGE-X"
+
+cd $MAIN
+
+bash run
+
